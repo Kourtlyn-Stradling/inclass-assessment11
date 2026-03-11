@@ -47,18 +47,18 @@ header {
 }
 
 h1 {
-  max-width: 500px;
+  max-width: 600px;
   min-width: 100px;
   height: auto;
   margin-left: auto;
   margin-right: auto;
   font-family: "Gloria Hallelujah", "Times New Roman", Times, serif;
-  font-size: 2.5rem;
+  font-size: 4rem;
   color: #A6A26D;
 }
 
 h2 {
-  max-width: 500px;
+  max-width: 600px;
   min-width: 100px;
   height: auto;
   margin-left: auto;
@@ -72,7 +72,7 @@ main {
   margin-left: auto;
   margin-right: auto;
   padding: 15px 10px;
-  max-width: 500px;
+  max-width: 600px;
   min-width: 100px;
   height: auto;
   background-color: #59573E;
@@ -90,6 +90,7 @@ em, strong {
 }
 
 .lesson {
+  margin-top: 25px;
   font-size: 1.5rem;
   font-weight: 700;
 }
