@@ -19,6 +19,7 @@ body {
   background-color: #0D0D0D;
   width: 100vw;
   line-height: 1.5;
+  margin: 0 auto;
 }
 
 header {
@@ -44,6 +45,7 @@ h2 {
 
 main {
   margin-top: 25px;
+  padding: 15px 10px;
   max-width: 500px;
   min-width: 100px;
   height: auto;
@@ -58,4 +60,9 @@ p {
 
 em, strong {
   color: #A6A26D;
+}
+
+.lesson {
+  font-size: 1.5rem;
+  font-weight: 700;
 }
