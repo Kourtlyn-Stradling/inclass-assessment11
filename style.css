@@ -53,14 +53,15 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   font-family: "Gloria Hallelujah", "Times New Roman", Times, serif;
-  font-size: 4rem;
+  font-size: 3rem;
   color: #A6A26D;
 }
 
 h2 {
-  max-width: 600px;
+  max-width: 500px;
   min-width: 100px;
   height: auto;
+  margin-top: 15px;
   margin-left: auto;
   margin-right: auto;
   font-size: 1.5rem;
@@ -68,11 +69,11 @@ h2 {
 }
 
 main {
-  margin-top: 25px;
+  margin-top: 55px;
   margin-left: auto;
   margin-right: auto;
   padding: 15px 10px;
-  max-width: 600px;
+  max-width: 500px;
   min-width: 100px;
   height: auto;
   background-color: #59573E;
