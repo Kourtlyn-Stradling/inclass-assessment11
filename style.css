@@ -4,11 +4,32 @@
   box-sizing: border-box;
 }
 
+.gloria-hallelujah-regular {
+  font-family: "Gloria Hallelujah", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.quicksand-light {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <300>;
+  font-style: normal;
+}
+
+.quicksand-bold {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <700>;
+  font-style: normal;
+}
+
 html {
   font-family: "Quicksand", Helvetica, Sans-serif;
   color: #F2F2F2;
   font-size: 16px;
-  background-image: linear-gradient(rgba(13, 13, 13, 0.75), rgba(13, 13, 13, 0.75)) url("./assets/geriart-woodpile-6364896_1920.jpg");
+  text-align: center;
+  background-image: linear-gradient(rgba(13, 13, 13, 0.75), rgba(13, 13, 13, 0.75)), url("./assets/geriart-woodpile-6364896_1920.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
