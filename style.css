@@ -13,14 +13,14 @@
 .quicksand-light {
   font-family: "Quicksand", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <300>;
+  font-weight: 300;
   font-style: normal;
 }
 
 .quicksand-bold {
   font-family: "Quicksand", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <700>;
+  font-weight: 700;
   font-style: normal;
 }
 
@@ -31,8 +31,8 @@ html {
   text-align: center;
   background-image: linear-gradient(rgba(13, 13, 13, 0.75), rgba(13, 13, 13, 0.75)), url("./assets/geriart-woodpile-6364896_1920.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center;
+  background-size: cover;
+  background-position: top center;
   background-attachment: fixed;
 }
 
@@ -50,7 +50,9 @@ h1 {
   max-width: 500px;
   min-width: 100px;
   height: auto;
-  font-family: "Gloria-Hallelujah", "Times New Roman", Times, serif;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Gloria Hallelujah", "Times New Roman", Times, serif;
   font-size: 2.5rem;
   color: #A6A26D;
 }
@@ -59,12 +61,16 @@ h2 {
   max-width: 500px;
   min-width: 100px;
   height: auto;
+  margin-left: auto;
+  margin-right: auto;
   font-size: 1.5rem;
   color: #8C8177;
 }
 
 main {
   margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
   padding: 15px 10px;
   max-width: 500px;
   min-width: 100px;
